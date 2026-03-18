@@ -154,9 +154,3 @@ jupyter notebook
 - Includes model tuning and evaluation  
 - Implements production-style pipelines  
 - Focuses on interpretability and insights  
-
----
-
-## 📬 Contact
-
-Feel free to connect or reach out for opportunities!
