@@ -38,7 +38,6 @@ scikit-learn-ml-showcase
 │   ├── 07_preprocessing_and_pipelines.ipynb
 │   ├── 08_feature_importance_and_interpretability.ipynb
 │
-├── images
 ├── requirements.txt
 └── README.md
 ```
